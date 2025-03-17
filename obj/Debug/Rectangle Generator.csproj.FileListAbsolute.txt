@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Rectangle Generator\bin\Debug\Rectangle Generator.exe.config
+C:\Users\ABC\source\repos\Rectangle Generator\bin\Debug\Rectangle Generator.exe
+C:\Users\ABC\source\repos\Rectangle Generator\bin\Debug\Rectangle Generator.pdb
+C:\Users\ABC\source\repos\Rectangle Generator\obj\Debug\Rectangle Generator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Rectangle Generator\obj\Debug\Rectangle Generator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Rectangle Generator\obj\Debug\Rectangle Generator.exe
+C:\Users\ABC\source\repos\Rectangle Generator\obj\Debug\Rectangle Generator.pdb
